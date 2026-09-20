@@ -15,5 +15,7 @@ IEEE754 also defines certain formats which are a set of representation of numeri
 • Rounding rules which are the properties that should be satisfied while doing arithmetic operations and conversions of any numbers on arithmetic formats. 
 • Exception handling which indicates any exceptional conditions (like division by zero, underflow, overflow, etc.) occurred during the operations
 
+
+Block Diagram of Floating-Point Unit
 <img width="977" height="630" alt="image" src="https://github.com/user-attachments/assets/b30ebaf8-3170-4ba0-a621-e7c6d8e0580f" />
 
